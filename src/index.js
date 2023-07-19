@@ -8,6 +8,9 @@ import {BrowserRouter} from 'react-router-dom'
 import { AuthProvider } from './context/auth';
 import { SearchProvider } from './context/search';
 import { CartProvider } from './context/cart';
+import axios from 'axios';
+//set base url 
+axios.defaults.baseURL = process.env.REACT_APP_URL;
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

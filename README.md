@@ -1,3 +1,7 @@
+# Ecommerce website (frontend)
+
+<p>Add Environment variable `REACT_APP_URL` which will set the base url to connect with backend (added in index.js file)</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

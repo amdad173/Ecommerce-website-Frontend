@@ -1,5 +1,8 @@
-# Ecommerce website (frontend)
+# Ecommerce website (frontend) [Live Link](https://ecommerce-app-frontend.onrender.com/)
 
+A MERN stack Ecommerce App with role-based authentication (using JWT), users can easily register, log in, and log out. The app showcases a wide range of products on the homepage, allowing users to filter them by category or price. A convenient search function enables quick item discovery. Users can add products to their shopping cart and can buy with secure PayPal payments. Users can also see the order history which makes tracking past purchases effortlessly. Admins have the power to create, update, and delete products and categories, ensuring an up-to-date catalog. They can also efficiently update shipping statuses, streamlining the order fulfillment process for a seamless shopping experience.
+
+# Environment variable
 <p>Add Environment variable `REACT_APP_URL` which will set the base url to connect with backend (added in index.js file)</p>
 
 # Getting Started with Create React App
